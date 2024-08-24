@@ -1,5 +1,5 @@
 // Đặt thời gian bắt đầu và kết thúc của chuyến đi chơi
-const startTime = new Date("August 25, 2024 08:00:00").getTime();
+const startTime = new Date("August 26, 2024 08:00:00").getTime();
 const endTime = new Date("August 26, 2024 13:30:00").getTime();
 
 // Lấy phần tử hiển thị đếm ngược
